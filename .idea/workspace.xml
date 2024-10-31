@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4d180a14-3963-463a-b27c-43a1df964bc3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Quesion6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Questions4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/KYCForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/MoneyDeposit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/MoneyTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandling/Ques3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/BasicJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/Callbyvalue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/Parameter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/PracticeQues1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/PracticeQues2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/PracticeQues3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture11/Function/functionOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture12/Array/PracticeQues1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture12/Array/PracticeQues2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture12/Array/PracticeQues3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture12/Array/PracticeQues4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture13/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture13/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture14/String/PracticeQues1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture14/String/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture15Array2d/BasicQues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture15Array2d/Ques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/PracticeQues1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/PracticeQues3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/Ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/Ques5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/Ques6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture5/ConditionalStatement/Ques7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/BreakContinue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/Continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/NestedLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/PracticeQues1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/PracticeQues2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lecture6/Loops/WhatALoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Multithreading/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/ClassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/Inheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPs/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operator/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/Ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/Ques2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/Ques3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/Ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PracticeTime/loop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchStatement/Ques1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Lecture12/Array/PracticeQues4.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lc1kA6un4r1mZTWm7WOvYgpp4t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ASimulatorSystem.BalanceEnquiry.executor": "Run",
+    "Application.Arithmetic.executor": "Run",
+    "Application.BalanceEnquiry.executor": "Run",
+    "Application.Bank.executor": "Run",
+    "Application.BasicJava.executor": "Run",
+    "Application.BubbleSort.executor": "Run",
+    "Application.Callbyvalue.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.KYCForm.executor": "Run",
+    "Application.Main.executor": "Debug",
+    "Application.Menu.executor": "Run",
+    "Application.MoneyDeposit.executor": "Run",
+    "Application.MoneyTransfer.executor": "Run",
+    "Application.Operator.executor": "Run",
+    "Application.Parameter.executor": "Run",
+    "Application.Parameters.executor": "Run",
+    "Application.PracticOues1.executor": "Run",
+    "Application.PracticQues.executor": "Run",
+    "Application.PracticQus.executor": "Run",
+    "Application.PracticeOues1.executor": "Run",
+    "Application.PracticeOues2.executor": "Run",
+    "Application.PracticeOues3.executor": "Run",
+    "Application.PracticeQues1.executor": "Run",
+    "Application.PracticeQues2.executor": "Run",
+    "Application.PracticeQues3.executor": "Run",
+    "Application.PracticeQues4.executor": "Run",
+    "Application.Ques1.executor": "Run",
+    "Application.SelectionSort.executor": "Run",
+    "Application.SendMoney.executor": "Run",
+    "Application.Signup.executor": "Run",
+    "Application.functionOverloading.executor": "Run",
+    "Application.gui.executor": "Run",
+    "Application.login.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Java/java/src/Main.java",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d180a14-3963-463a-b27c-43a1df964bc3" name="Changes" comment="" />
+      <created>1725464691536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725464691536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Ques1_java$KYCForm.ic" NAME="KYCForm Coverage Results" MODIFIED="1730193080004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Bank.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Ques1_java$Menu.ic" NAME="Menu Coverage Results" MODIFIED="1729762000190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Bank.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Ques1_java$Signup.ic" NAME="Signup Coverage Results" MODIFIED="1730189101685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>Bank.*</FILTER>
+    </SUITE>
+  </component>
+</project>
